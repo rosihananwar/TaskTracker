@@ -1,0 +1,40 @@
+{
+  "tasks": [
+    {
+      "text": "nobar world cup",
+      "day": "des 18th at 10:00pm",
+      "reminder": true,
+      "id": 2
+    },
+    {
+      "text": "control",
+      "day": "des 17th at 8:00am",
+      "reminder": true,
+      "id": 4
+    },
+    {
+      "text": "main bola",
+      "day": "des 16th at 4:00pm",
+      "reminder": false,
+      "id": 5
+    },
+    {
+      "text": "ambil aquarium",
+      "day": "des 18th at 11am",
+      "reminder": true,
+      "id": 6
+    },
+    {
+      "text": "coding",
+      "day": "every day",
+      "reminder": true,
+      "id": 7
+    },
+    {
+      "text": "jogging",
+      "day": "Des 15th at 4:30pm",
+      "reminder": true,
+      "id": 8
+    }
+  ]
+}
